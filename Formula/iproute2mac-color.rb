@@ -4,7 +4,7 @@ class Iproute2macColor < Formula
   desc "CLI wrapper for macOS network utilities with color support"
   homepage "https://github.com/luoling8192/iproute2mac-color"
   url "https://github.com/luoling8192/iproute2mac-color/archive/refs/tags/v1.5.5.tar.gz"
-  sha256 "054d356b9579f91134936e7f9cd387d5164653ce16d1034c4be0409cd72eebad"
+  sha256 "c97318ba31b29bad4b5317eb814017440c2cb158fe36db5b514ef0e5e16444ea"
   license "MIT"
   head "https://github.com/luoling8192/iproute2mac-color.git", branch: "master"
 
